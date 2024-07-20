@@ -1,0 +1,43 @@
+<?php 
+    echo "max(20,57,64,13)= ".max(20,57,64,13);
+    echo "<br>";
+    echo "pow(2,5)= ".pow(2,5);
+    echo "<br>";
+    echo "sqrt(4)= ".sqrt(4);
+    echo "<br>";
+    echo "floor(4.9)= ".floor(4.9);
+    echo "<br>";
+    echo "ceil(3.8)= ".ceil(3.8);
+    echo "<br>";
+    echo "round(4.2)= ".round(4.2);
+    echo "<br>";
+    echo "min(49,41,40)= ".min(49,41,40);
+    echo "<br>";
+    echo "strlen(Chanchal Kumar Laha)= ".strlen("Chanchal Kumar Laha");
+    echo "<br>";
+    echo "str_word_count(Wellcome to php class)= ".str_word_count("Wellcome to php class");
+    echo "<br>";
+    echo "strrev(Hello world!)= ".strrev("Hello world!");
+    echo "<br>";
+    echo "strpos(Hello world!,world)= ".strpos("Hello world!","world");
+    echo "<br>";
+    echo "abs(4.7)= ".abs(4.7);
+    echo "<br>";
+    echo "(fmod(15,6))= ".(fmod(15,6));
+    echo "<br>";
+    echo "(intdiv(8,4))= ".(intdiv(8,4));
+    echo "<br>";
+    echo "(log(2.7183))= ".(log(2.7183));
+    echo "<br>";
+    echo "(mt_rand(10,100))= ".(mt_rand(10,100));
+    echo "<br>";
+    echo "(pi())= ".(pi());
+    echo "<br>";
+    echo "(acos(0.4))= ".(acos(0.4));
+    echo "<br>";
+    echo "(asin(0.4))= ".(asin(0.4));
+    echo "<br>";
+    echo "(exp(4.8))= ".(exp(4.8));
+    echo "<br>";
+
+?>
